@@ -48,6 +48,10 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="90" height="60"/>
   </a>
   
+   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="60"/>
+  </a>
+  
 
 </p>
 
