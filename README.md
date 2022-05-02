@@ -12,38 +12,39 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="90" height="60"/>
   </a>
   
   
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="90" height="60"/>
   </a>
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="60"/>
+  </a>
+  
+  
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="60"/>
   </a>
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="60"/>
   </a>
   
  
   
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
   </a>
   
    
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="60"/>
-  </a>
-  
-  
+
     
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="90" height="60"/>
   </a>
   
@@ -53,10 +54,9 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
 ##  Learning... 🔭
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="60"/>
   </a>
-
 </p>
 
 
