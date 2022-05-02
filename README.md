@@ -38,7 +38,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
     
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="![image](https://user-images.githubusercontent.com/81518967/166341159-7e46e733-136c-4041-ab7e-bcf20c69386f.png)" alt="android" width="90" height="60"/>
+    <img src="https://user-images.githubusercontent.com/81518967/166341159-7e46e733-136c-4041-ab7e-bcf20c69386f.png" alt="android" width="90" height="60"/>
   </a>
   
   
