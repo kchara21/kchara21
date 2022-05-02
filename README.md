@@ -1,4 +1,4 @@
-### Hi there 👋
+### I want to be part of the change I want to see in the world. 👋
 
 <!--
 **kchara21/kchara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
