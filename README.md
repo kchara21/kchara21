@@ -30,16 +30,21 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="60"/>
   </a>
   
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="60"/>
+  </a>
+  
+  
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
   </a>
   
   
-   
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="60"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="90" height="60"/>
   </a>
-  
+   
+ 
 
   
 </p>
