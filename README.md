@@ -40,10 +40,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
   
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="android" width="90" height="60"/>
-  </a>
-   
+
  
 
   
