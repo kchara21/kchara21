@@ -47,17 +47,25 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="90" height="60"/>
   </a>
   
- 
 
-  
 </p>
+
+##  Learning... 🔭
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="60"/>
+  </a>
+
+</p>
+
 
 <!--
 **kchara21/kchara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 -  I’m looking for help with ...
