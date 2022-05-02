@@ -13,7 +13,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="90" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="100" height="60"/>
   </a>
   
   
