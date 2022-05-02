@@ -1,6 +1,8 @@
-### I want to be part of the change I want to see in the world. 
+### I want to be part of the change I want to see in the world...
 
 # Hello, I´m Kaleb Chara 👋
+
+A systems engineer, but more importantly, a person who tries with his knowledge to contribute as much as possible. However, you maybe will ask yourself, well, what do you know how to do?
 
 <!--
 **kchara21/kchara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
