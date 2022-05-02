@@ -8,12 +8,12 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="tyepscript" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="tyepscript" width="70" height="50"/>
   </a>
   
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="tyepscript" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="tyepscript" width="70" height="50"/>
   </a>
   
   
