@@ -1,6 +1,6 @@
-### I want to be part of the change I want to see in the world. 👋
+### I want to be part of the change I want to see in the world. 
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Kaleb Chara
+# Hello, I´m Kaleb Chara 👋
 
 <!--
 **kchara21/kchara21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
