@@ -2,9 +2,9 @@
 
 # Hello, I´m Kaleb Chara 👋
 
-A systems engineer, but more importantly, a person who tries with his knowledge to contribute as much as possible. However, you maybe will ask yourself, well, what do you know how to do? 😄🤔
+A systems engineer, but more importantly, a person who tries with his knowledge to contribute as much as possible. However, you maybe will ask yourself, well, what do you know how to do? 🤔
 
-## Skills:
+## ⚡ Skills: ⚡
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
