@@ -11,10 +11,14 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="tyepscript" width="90" height="60"/>
   </a>
   
+  <br/>
+  
   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="90" height="60"/>
   </a>
+  
+    <br/>
   
   
   
