@@ -52,10 +52,6 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="60"/>
   </a>
   
-   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/81518967/166343065-4e4d0f4f-e5c1-45e4-9e42-d7ff583afc4f.png" alt="heidisql" width="90" height="60"/>
-  </a>
- 
   
 </p>
 
