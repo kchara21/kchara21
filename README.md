@@ -58,6 +58,10 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="60"/>
   </a>
   
+     <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="60"/>
+  </a>
+  
   
 </p>
 
@@ -66,6 +70,10 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
 <p align="left">
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="120" height="90"/>
+  </a>
+  
+     <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="60"/>
   </a>
 </p>
 
