@@ -55,7 +55,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="90" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="120" height="90"/>
   </a>
   
  
