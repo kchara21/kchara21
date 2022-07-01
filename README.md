@@ -31,6 +31,10 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="60"/>
   </a>
   
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="120" height="90"/>
+  </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="90" height="60"/>
   </a>
@@ -55,7 +59,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
 </p>
 
-##  Learning... 🔭
+##  Learning more about... 🔭
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
