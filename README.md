@@ -31,7 +31,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="90" height="60"/>
   </a>
   
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="120" height="90"/>
   </a>
   
