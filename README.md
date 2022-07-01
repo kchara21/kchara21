@@ -63,12 +63,6 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
 </p>
 
-##  Learning more about... 🔭
-
-<p align="left">
-    
-  
-</p>
 
 ## Contact 💬
 
