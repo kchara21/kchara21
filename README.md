@@ -24,8 +24,8 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
 
   
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="90" height="60"/>
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="90" height="60"/>
   </a>
   
   
