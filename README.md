@@ -61,6 +61,11 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="60"/>
   </a>
+  
+    
+   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest-js" width="90" height="60"/>
+  </a>
 
 
   
@@ -77,6 +82,8 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
   
 </p>
+
+
 
 
 ## Contact 💬
