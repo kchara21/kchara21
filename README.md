@@ -66,6 +66,14 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest-js" width="90" height="60"/>
   </a>
+  
+     <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="java" width="90" height="60"/>
+  </a>
+  
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg" alt="spring" width="90" height="60"/>
+  </a>
 
 
   
@@ -76,12 +84,14 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
 ##  Learning more about... 🔭
 
 <p align="left">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="120" height="90"/>
+   
+  
+   <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="java" width="120" height="90"/>
   </a>
   
-   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest-js" width="120" height="90"/>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg" alt="spring" width="120" height="90"/>
   </a>
   
   
