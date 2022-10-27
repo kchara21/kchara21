@@ -68,8 +68,8 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="150" height="60"/>
   </a>
   
-   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="150" height="60"/>
+   <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="150" height="60"/>
   </a>
   
   
