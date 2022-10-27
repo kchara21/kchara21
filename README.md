@@ -70,10 +70,9 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
   
-       <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="100" height="60"/>
+    <a href="https://dev.java/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="120" height="90"/>
   </a>
-
 
   
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
