@@ -68,12 +68,12 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
   
     <a href="https://dev.java/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="200" height="200"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="90" height="60"/>
   </a>
 
   
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="120" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="90" height="60"/>
   </a>
 
 
@@ -92,7 +92,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="120" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="120" height="90"/>
   </a>
   
   
