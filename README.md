@@ -64,8 +64,12 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nest-js" width="120" height="60"/>
   </a>
   
-   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="nest-js" width="150" height="60"/>
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="150" height="60"/>
+  </a>
+  
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="150" height="60"/>
   </a>
   
   
@@ -82,6 +86,10 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   
    <a href="https://dev.java/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="120" height="90"/>
+  </a>
+  
+   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="120" height="90"/>
   </a>
 
   
