@@ -89,7 +89,7 @@ A systems engineer, but more importantly, a person who tries with his knowledge 
   </a>
   
    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="120" height="90"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="java" width="150" height="60"/>
   </a>
 
   
